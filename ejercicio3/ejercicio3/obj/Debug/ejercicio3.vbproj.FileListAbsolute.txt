@@ -1,0 +1,13 @@
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\bin\Debug\ejercicio3.exe.config
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\bin\Debug\ejercicio3.exe
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\bin\Debug\ejercicio3.pdb
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\bin\Debug\ejercicio3.xml
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\obj\Debug\ejercicio3.vbprojAssemblyReference.cache
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\obj\Debug\ejercicio3.Form1.resources
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\obj\Debug\ejercicio3.Form2.resources
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\obj\Debug\ejercicio3.Resources.resources
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\obj\Debug\ejercicio3.vbproj.GenerateResource.cache
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\obj\Debug\ejercicio3.vbproj.CoreCompileInputs.cache
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\obj\Debug\ejercicio3.exe
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\obj\Debug\ejercicio3.xml
+M:\ITEC\SEGUNDOAÑO(A)\LENGUAJE 2\ejerciciosVB\ejercicio3\ejercicio3\obj\Debug\ejercicio3.pdb

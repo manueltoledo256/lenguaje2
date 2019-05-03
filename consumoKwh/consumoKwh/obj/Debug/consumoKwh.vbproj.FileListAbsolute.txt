@@ -1,0 +1,12 @@
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\bin\Debug\consumoKwh.exe.config
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\bin\Debug\consumoKwh.exe
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\bin\Debug\consumoKwh.pdb
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\bin\Debug\consumoKwh.xml
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\obj\Debug\consumoKwh.vbprojAssemblyReference.cache
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\obj\Debug\consumoKwh.Form1.resources
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\obj\Debug\consumoKwh.Resources.resources
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\obj\Debug\consumoKwh.vbproj.GenerateResource.cache
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\obj\Debug\consumoKwh.vbproj.CoreCompileInputs.cache
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\obj\Debug\consumoKwh.exe
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\obj\Debug\consumoKwh.xml
+C:\Users\Victor Toledo\source\repos\consumoKwh\consumoKwh\obj\Debug\consumoKwh.pdb

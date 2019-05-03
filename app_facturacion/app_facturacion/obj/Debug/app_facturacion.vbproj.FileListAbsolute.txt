@@ -1,0 +1,14 @@
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\bin\Debug\app_facturacion.exe.config
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\bin\Debug\app_facturacion.exe
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\bin\Debug\app_facturacion.pdb
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\bin\Debug\app_facturacion.xml
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.vbprojAssemblyReference.cache
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.Form1.resources
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.Form2.resources
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.Resources.resources
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.vbproj.GenerateResource.cache
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.exe
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.xml
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.pdb
+C:\Users\Victor Toledo\source\repos\app_facturacion\app_facturacion\obj\Debug\app_facturacion.Factura.resources
