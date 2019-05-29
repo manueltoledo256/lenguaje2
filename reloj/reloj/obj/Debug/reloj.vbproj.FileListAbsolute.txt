@@ -1,0 +1,12 @@
+C:\Users\Victor Toledo\source\repos\reloj\reloj\bin\Debug\reloj.exe.config
+C:\Users\Victor Toledo\source\repos\reloj\reloj\bin\Debug\reloj.exe
+C:\Users\Victor Toledo\source\repos\reloj\reloj\bin\Debug\reloj.pdb
+C:\Users\Victor Toledo\source\repos\reloj\reloj\bin\Debug\reloj.xml
+C:\Users\Victor Toledo\source\repos\reloj\reloj\obj\Debug\reloj.vbprojAssemblyReference.cache
+C:\Users\Victor Toledo\source\repos\reloj\reloj\obj\Debug\reloj.Form1.resources
+C:\Users\Victor Toledo\source\repos\reloj\reloj\obj\Debug\reloj.Resources.resources
+C:\Users\Victor Toledo\source\repos\reloj\reloj\obj\Debug\reloj.vbproj.GenerateResource.cache
+C:\Users\Victor Toledo\source\repos\reloj\reloj\obj\Debug\reloj.vbproj.CoreCompileInputs.cache
+C:\Users\Victor Toledo\source\repos\reloj\reloj\obj\Debug\reloj.exe
+C:\Users\Victor Toledo\source\repos\reloj\reloj\obj\Debug\reloj.xml
+C:\Users\Victor Toledo\source\repos\reloj\reloj\obj\Debug\reloj.pdb
